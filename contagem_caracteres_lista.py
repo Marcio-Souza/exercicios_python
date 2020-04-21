@@ -16,10 +16,10 @@ def contar_caracteres(s):
         if caracter == caracter_anterior:
             contagem += 1
         else:
-            print("{}: {}".format(caracter_anterior, contagem))
+            print(f'{caracter_anterior}: {contagem}')
             caracter_anterior = caracter
             contagem = 1
-    print("{}: {}".format(caracter_anterior, contagem))
+    print(f'{caracter_anterior}: {contagem}')
 
 
 if __name__ == '__main__':
