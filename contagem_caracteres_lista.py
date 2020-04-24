@@ -5,7 +5,7 @@ def contar_caracteres(s):
     a:3
     b:1
     n:2
-    :param s:
+    :param s: string a ser retornada
     :return:
     """
     caracter_ordenado = sorted(s)
