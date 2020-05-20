@@ -2,9 +2,10 @@ def contar_caracteres(s):
     """ Funcao que conta os caracteres de uma string
     Ex:
     >>> contar_caracteres('banana')
-    a:3
-    b:1
-    n:2
+    a: 3
+    b: 1
+    n: 2
+
     :param s: string a ser retornada
     :return:
     """
@@ -24,6 +25,6 @@ def contar_caracteres(s):
 
 if __name__ == '__main__':
     contar_caracteres('banana')
-    print()
-    contar_caracteres('Mariana')
+   # print()
+   # contar_caracteres('Mariana')
 

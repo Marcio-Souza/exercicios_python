@@ -3,6 +3,7 @@ def contar_caracteres(s):
     Ex:
     >>> contar_caracteres('banana')
     {'a': 3, 'b': 1, 'n': 2}
+
     :param s:
     :return:
     """

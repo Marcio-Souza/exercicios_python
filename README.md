@@ -6,3 +6,5 @@ Repositório de exercícios python utilizados no aprendizado da linguagem.
 3. Contagem de caracteres usando dicionário simplificada
 4. Converter Celsius para Farenheit
 5. Converter Farenheit para Celsius
+6. Controlar uma TV mudar de canal e volume
+7. Sorteio de alunos
