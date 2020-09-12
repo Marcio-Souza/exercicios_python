@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-.idea/*
-=======
 .idea/*
 .pytest_cache
 .vscode
->>>>>>> ecb1219f31a79fcd413deb9ed6573303dd81ebff
+.venv
+
