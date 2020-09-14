@@ -11,4 +11,5 @@ def farenheit_celsius(fare):
     return celsius
 
 
-print(farenheit_celsius(77))
+if __name__ == '__main__':
+    print(farenheit_celsius(77))
