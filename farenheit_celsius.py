@@ -6,8 +6,15 @@ C = (5 * (F-32) / 9).
 
 
 def farenheit_celsius(fare):
+    """
+    >>> farenheit_celsius(77)
+    25.0
+
+    :param fare:
+    :return:
+    """
     f = fare
-    celsius = 5 * (f -32) /9
+    celsius = 5 * (f - 32) / 9
     return celsius
 
 
